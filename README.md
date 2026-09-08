@@ -2,7 +2,7 @@
 
 ### Data Analyst | Electrical & Electronics Engineer
 
-I’m an Electrical & Electronics Engineering and Data Analytics professional with a Master’s in Data Analytics and 2+ years of engineering experience.
+I’m an Electrical & Electronics Engineering and Data Analytics professional with a Master’s in Data Analytics and 4+ years of engineering experience.
 
 My work combines data analysis, machine learning, business intelligence, and engineering problem-solving. I’m particularly interested in using data to understand complex systems, identify patterns, and support better technical and business decisions.
 
