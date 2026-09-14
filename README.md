@@ -81,4 +81,4 @@ Covenant University
 
 ## 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/paniebiovuru) • [GitHub](https://github.com/Karparni)
+[Portfolio](https://paniebiovuru.lovable.app/) • [LinkedIn](https://www.linkedin.com/in/paniebiovuru) • [GitHub](https://github.com/Karparni)
